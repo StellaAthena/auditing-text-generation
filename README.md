@@ -1,6 +1,7 @@
 # Auditing Data Provenance in Text-Generation Models
 This repository contains example of experiments for the paper 
 Auditing Data Provenance in Text-Generation Models (https://arxiv.org/pdf/1811.00513.pdf/).
+It was forked from the authors' repository and has been modified for personal use.
 
 ### Train text-generation models
 The first step is to train target and shadow text-generation models.
